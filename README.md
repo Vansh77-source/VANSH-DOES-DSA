@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vansh77-source/VANSH-DOES-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vansh77-source/VANSH-DOES-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh77-source/VANSH-DOES-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh77-source/VANSH-DOES-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Vansh77-source/VANSH-DOES-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vansh77-source/VANSH-DOES-DSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Vansh77-source/VANSH-DOES-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vansh77-source/VANSH-DOES-DSA/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh77-source/VANSH-DOES-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
